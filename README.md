@@ -1,6 +1,6 @@
 # Lakshmi Edu-Tech
 
-<img src='logo-placeholder.png' alt='Lakshmi Edu-Tech Logo' />
+<img src='https://github.com/438-venkatesh/Lakshmi-Edu-Tech/blob/main/frontend/src/assets/Logo/rzp_logo.png' alt='Lakshmi Edu-Tech Logo' />
 
 ## Project Description 📝
 
@@ -156,19 +156,4 @@ Used React hooks include:
 
 ---
 
-## 🖥️ Screen Preview :
 
-### Random Home Page Background 🏠  
-(Placeholder for home background screenshots)
-
-### About Page  
-(Placeholder for about page screenshot)
-
-### Contact Page  
-(Placeholder for contact page screenshot)
-
-### Forgot Password  
-(Placeholder for forgot password screenshot)
-
-### Dashboard  
-(Placeholder for dashboard screenshot)
